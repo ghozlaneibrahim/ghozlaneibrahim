@@ -2,13 +2,9 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning JS
 - 📫 How to reach me :
-<ul>
-<li>FB : ibrahim ghozlane
-</li>
-<li>Insta : Ibrahim_ghozlane
-</li>
-<li>twitter : @ibrahimghozlane
-</li>
+ - FB : ibrahim ghozlane
+ - Insta : Ibrahim_ghozlane
+ - Twitter : @ibrahimghozlane
  
 
 
